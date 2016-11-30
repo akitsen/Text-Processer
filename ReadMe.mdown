@@ -1,0 +1,11 @@
+Text Processing Project - Big Data
+Westmont College - 2015
+===========
+
+Class project assignment to find TwoGrams, Palindromes, Frequency, etc.
+
+Used to process large amounts of text.
+
+Author: Andrey Kitsen ;
+
+Instructor: Wayne Iba ;
